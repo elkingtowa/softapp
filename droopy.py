@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
 # Droopy (http://stackp.online.fr/droopy)
 # Copyright 2008-2013 (c) Pierre Duquesne <stackp@online.fr>
